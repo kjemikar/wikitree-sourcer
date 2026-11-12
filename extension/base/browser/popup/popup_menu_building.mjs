@@ -1227,7 +1227,8 @@ function setupBuildCitationSubmenuForRequestedUserInput(
         regeneralizeFunction,
         userInputFunction,
         resultData,
-        focusElementId
+        focusElementId,
+        isCollectingCitations
       );
     }, 1);
   }

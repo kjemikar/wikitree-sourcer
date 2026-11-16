@@ -45,6 +45,8 @@ function buildSourceReference(ed, gd, builder) {
     return;
   }
   let edReader = new NodaEdReader(ed);
+  if (ed.viewerContext && ed.viewerMetadata)
+    addViewerSourceReference(ed, builder, { includePage: false, includeContents: false });
   edReader.addSourceReferenceToCitationBuilder(builder);
 }
 

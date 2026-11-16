@@ -13,3 +13,11 @@ shells, since extraction uses the URL and the popup loads metadata separately.
 
 The JSON's `url` records the exact viewer address. Source IDs, image UUIDs,
 permanent image IDs, and printed pages are distinct identifiers.
+
+`people/` contains the full public transcription-list responses for these four
+images and focused English person-record HTML, captured on the same date.
+`people/records.json` records final record URLs and file names. Record captures
+retain breadcrumbs and the article; scripts, styles, and unrelated site chrome
+were removed. They include the primary burial subject, a related person used for
+negative checks, a baptism child, and both spouses on the mixed chronological
+page. No image pixels or private account data are included.

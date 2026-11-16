@@ -1,0 +1,458 @@
+{
+  "gr": {
+    "hg00000003678784": [
+      {
+        "event_id": "hg00000003678784",
+        "event_date": "01-03",
+        "event_year": "1899",
+        "person_id": "pg00000004763625",
+        "first_name": "Knut",
+        "last_name": "Ulingsen",
+        "gender": "m",
+        "role": "avdød"
+      }
+    ],
+    "hg00000003678785": [
+      {
+        "event_id": "hg00000003678785",
+        "event_date": "01-03",
+        "event_year": "1899",
+        "person_id": "pg00000004763626",
+        "first_name": "Torbjørn",
+        "last_name": "Olsen Sanla",
+        "gender": "m",
+        "role": "avdød"
+      }
+    ],
+    "hg00000003678786": [
+      {
+        "event_id": "hg00000003678786",
+        "event_date": "01-21",
+        "event_year": "1899",
+        "person_id": "pg00000004763627",
+        "first_name": "Spor",
+        "last_name": "Ellingsen",
+        "gender": "m",
+        "role": "avdød"
+      }
+    ],
+    "hg00000003678787": [
+      {
+        "event_id": "hg00000003678787",
+        "event_date": "02-02",
+        "event_year": "1899",
+        "person_id": "pg00000004763628",
+        "first_name": "Peder",
+        "last_name": "Johannesen",
+        "gender": "m",
+        "role": "avdød"
+      }
+    ],
+    "hg00000003678788": [
+      {
+        "event_id": "hg00000003678788",
+        "event_date": "02-04",
+        "event_year": "1899",
+        "person_id": "pg00000004763629",
+        "first_name": "Knut",
+        "last_name": "Knutsen",
+        "gender": "m",
+        "role": "avdød"
+      }
+    ],
+    "hg00000003678789": [
+      {
+        "event_id": "hg00000003678789",
+        "event_date": "02-09",
+        "event_year": "1899",
+        "person_id": "pg00000004763630",
+        "first_name": "Ole",
+        "last_name": "Pedersen",
+        "gender": "m",
+        "role": "avdød"
+      }
+    ],
+    "hg00000003678790": [
+      {
+        "event_id": "hg00000003678790",
+        "event_date": "02-09",
+        "event_year": "1899",
+        "person_id": "pg00000004763631",
+        "first_name": "Lars",
+        "last_name": "Andersen",
+        "gender": "m",
+        "role": "avdød"
+      },
+      {
+        "event_id": "hg00000003678790",
+        "event_date": "02-09",
+        "event_year": "1899",
+        "person_id": "pg00000004763632",
+        "first_name": "Anders",
+        "last_name": "Larsen",
+        "gender": "m",
+        "role": "pårørande"
+      }
+    ],
+    "hg00000003678791": [
+      {
+        "event_id": "hg00000003678791",
+        "event_date": "02-11",
+        "event_year": "1899",
+        "person_id": "pg00000004763633",
+        "first_name": "Od",
+        "last_name": "Knudsen",
+        "gender": "m",
+        "role": "avdød"
+      }
+    ],
+    "hg00000003678792": [
+      {
+        "event_id": "hg00000003678792",
+        "event_date": "02-14",
+        "event_year": "1899",
+        "person_id": "pg00000004763634",
+        "first_name": "Spor",
+        "last_name": "Gotskalksen",
+        "gender": "m",
+        "role": "avdød"
+      },
+      {
+        "event_id": "hg00000003678792",
+        "event_date": "02-14",
+        "event_year": "1899",
+        "person_id": "pg00000004763635",
+        "first_name": "Gotskalk",
+        "last_name": "Olsen",
+        "gender": "m",
+        "role": "pårørande"
+      }
+    ],
+    "hg00000003678793": [
+      {
+        "event_id": "hg00000003678793",
+        "event_date": "03-04",
+        "event_year": "1899",
+        "person_id": "pg00000004763636",
+        "first_name": "Nils",
+        "last_name": "Trondsen",
+        "gender": "m",
+        "role": "avdød"
+      }
+    ],
+    "hg00000003678794": [
+      {
+        "event_id": "hg00000003678794",
+        "event_date": "03-04",
+        "event_year": "1899",
+        "person_id": "pg00000004763637",
+        "first_name": "Anders",
+        "last_name": "Svenson",
+        "gender": "m",
+        "role": "avdød"
+      }
+    ],
+    "hg00000003678795": [
+      {
+        "event_id": "hg00000003678795",
+        "event_date": "03-09",
+        "event_year": "1899",
+        "person_id": "pg00000004763638",
+        "first_name": "Elias",
+        "last_name": "Johannesen Mosdelid",
+        "gender": "m",
+        "role": "avdød"
+      },
+      {
+        "event_id": "hg00000003678795",
+        "event_date": "03-09",
+        "event_year": "1899",
+        "person_id": "pg00000004763639",
+        "first_name": "Johannes Martinus",
+        "last_name": "Mandelid",
+        "gender": "m",
+        "role": "pårørande"
+      }
+    ],
+    "hg00000003678796": [
+      {
+        "event_id": "hg00000003678796",
+        "event_date": "03-11",
+        "event_year": "1899",
+        "person_id": "pg00000004763640",
+        "first_name": "John",
+        "last_name": "Nilsen Finne",
+        "gender": "m",
+        "role": "avdød"
+      },
+      {
+        "event_id": "hg00000003678796",
+        "event_date": "03-11",
+        "event_year": "1899",
+        "person_id": "pg00000004763641",
+        "first_name": "Nils",
+        "last_name": "Finne",
+        "gender": "m",
+        "role": "pårørande"
+      }
+    ],
+    "hg00000003678797": [
+      {
+        "event_id": "hg00000003678797",
+        "event_date": "03-16",
+        "event_year": "1899",
+        "person_id": "pg00000004763642",
+        "first_name": "Knut",
+        "last_name": "Haldorsen",
+        "gender": "m",
+        "role": "avdød"
+      }
+    ],
+    "hg00000003678798": [
+      {
+        "event_id": "hg00000003678798",
+        "event_date": "01-12",
+        "event_year": "1899",
+        "person_id": "pg00000004763643",
+        "first_name": "Margrete Magdalenene",
+        "last_name": "Hirdsten",
+        "gender": "k",
+        "role": "avdød"
+      },
+      {
+        "event_id": "hg00000003678798",
+        "event_date": "01-12",
+        "event_year": "1899",
+        "person_id": "pg00000004763644",
+        "first_name": "Martin",
+        "last_name": "Larsen Hvidsten",
+        "gender": "m",
+        "role": "pårørande"
+      }
+    ],
+    "hg00000003678799": [
+      {
+        "event_id": "hg00000003678799",
+        "event_date": "01-17",
+        "event_year": "1899",
+        "person_id": "pg00000004763645",
+        "first_name": "Ingeborg",
+        "last_name": "Larsd",
+        "gender": "k",
+        "role": "avdød"
+      }
+    ],
+    "hg00000003678800": [
+      {
+        "event_id": "hg00000003678800",
+        "event_date": "02-04",
+        "event_year": "1899",
+        "person_id": "pg00000004763646",
+        "first_name": "Karoline",
+        "last_name": "Knutsd",
+        "gender": "k",
+        "role": "avdød"
+      },
+      {
+        "event_id": "hg00000003678800",
+        "event_date": "02-04",
+        "event_year": "1899",
+        "person_id": "pg00000004763647",
+        "first_name": "Knut",
+        "last_name": "Gullaksen",
+        "gender": "m",
+        "role": "pårørande"
+      }
+    ],
+    "hg00000003678801": [
+      {
+        "event_id": "hg00000003678801",
+        "event_date": "02-08",
+        "event_year": "1899",
+        "person_id": "pg00000004763648",
+        "first_name": "Ingeborg",
+        "last_name": "Jonsd Finne",
+        "gender": "k",
+        "role": "avdød"
+      },
+      {
+        "event_id": "hg00000003678801",
+        "event_date": "02-08",
+        "event_year": "1899",
+        "person_id": "pg00000004763649",
+        "first_name": "Nils",
+        "last_name": "Finne",
+        "gender": "k",
+        "role": "pårørande"
+      }
+    ],
+    "hg00000003678802": [
+      {
+        "event_id": "hg00000003678802",
+        "event_date": "02-07",
+        "event_year": "1899",
+        "person_id": "pg00000004763650",
+        "first_name": "Guri",
+        "last_name": "Eriksd",
+        "gender": "k",
+        "role": "avdød"
+      }
+    ],
+    "hg00000003678803": [
+      {
+        "event_id": "hg00000003678803",
+        "event_date": "03-09",
+        "event_year": "1899",
+        "person_id": "pg00000004763651",
+        "first_name": "Guro",
+        "last_name": "Larsd",
+        "gender": "k",
+        "role": "avdød"
+      },
+      {
+        "event_id": "hg00000003678803",
+        "event_date": "03-09",
+        "event_year": "1899",
+        "person_id": "pg00000004763652",
+        "first_name": "Lars",
+        "last_name": "Knutsen",
+        "gender": "m",
+        "role": "pårørande"
+      }
+    ],
+    "hg00000003678804": [
+      {
+        "event_id": "hg00000003678804",
+        "event_date": "03-18",
+        "event_year": "1899",
+        "person_id": "pg00000004763653",
+        "first_name": "Kristi",
+        "last_name": "Størkssd",
+        "gender": "k",
+        "role": "avdød"
+      },
+      {
+        "event_id": "hg00000003678804",
+        "event_date": "03-18",
+        "event_year": "1899",
+        "person_id": "pg00000004763654",
+        "first_name": "Nils",
+        "last_name": "Pedersen Dørk",
+        "gender": "m",
+        "role": "pårørande"
+      }
+    ],
+    "hg00000003678805": [
+      {
+        "event_id": "hg00000003678805",
+        "event_date": "03-23",
+        "event_year": "1899",
+        "person_id": "pg00000004763655",
+        "first_name": "Marte",
+        "last_name": "Nilsd",
+        "gender": "k",
+        "role": "avdød"
+      },
+      {
+        "event_id": "hg00000003678805",
+        "event_date": "03-23",
+        "event_year": "1899",
+        "person_id": "pg00000004763656",
+        "first_name": "Ole",
+        "last_name": "Davidsen",
+        "gender": "m",
+        "role": "pårørande"
+      }
+    ],
+    "hg00000003678806": [
+      {
+        "event_id": "hg00000003678806",
+        "event_date": "03-25",
+        "event_year": "1899",
+        "person_id": "pg00000004763657",
+        "first_name": "Bastian",
+        "last_name": "Larsd",
+        "gender": "k",
+        "role": "avdød"
+      },
+      {
+        "event_id": "hg00000003678806",
+        "event_date": "03-25",
+        "event_year": "1899",
+        "person_id": "pg00000004763658",
+        "first_name": "Lars",
+        "last_name": "Torgrimsen",
+        "gender": "m",
+        "role": "pårørande"
+      }
+    ],
+    "hg00000003678807": [
+      {
+        "event_id": "hg00000003678807",
+        "event_date": "03-29",
+        "event_year": "1899",
+        "person_id": "pg00000004763659",
+        "first_name": "Sigrid",
+        "last_name": "Knutsd",
+        "gender": "k",
+        "role": "avdød"
+      },
+      {
+        "event_id": "hg00000003678807",
+        "event_date": "03-29",
+        "event_year": "1899",
+        "person_id": "pg00000004763660",
+        "first_name": "Lars",
+        "last_name": "Johannesen",
+        "gender": "m",
+        "role": "pårørande"
+      }
+    ],
+    "hg00000003678808": [
+      {
+        "event_id": "hg00000003678808",
+        "event_date": "04-05",
+        "event_year": "1899",
+        "person_id": "pg00000004763661",
+        "first_name": "Guri",
+        "last_name": "Knutsd",
+        "gender": "k",
+        "role": "avdød"
+      }
+    ],
+    "hg00000003678809": [
+      {
+        "event_id": "hg00000003678809",
+        "event_date": "04-06",
+        "event_year": "1899",
+        "person_id": "pg00000004763662",
+        "first_name": "Gjertrud",
+        "last_name": "Halvarsd",
+        "gender": "k",
+        "role": "avdød"
+      },
+      {
+        "event_id": "hg00000003678809",
+        "event_date": "04-06",
+        "event_year": "1899",
+        "person_id": "pg00000004763663",
+        "first_name": "Ole",
+        "last_name": "Olsen",
+        "gender": "m",
+        "role": "pårørande"
+      }
+    ],
+    "hg00000003678810": [
+      {
+        "event_id": "hg00000003678810",
+        "event_date": "04-08",
+        "event_year": "1899",
+        "person_id": "pg00000004763664",
+        "first_name": "Kirsti",
+        "last_name": "Olsd Liland",
+        "gender": "k",
+        "role": "avdød"
+      }
+    ]
+  }
+}

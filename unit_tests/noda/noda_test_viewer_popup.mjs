@@ -32,6 +32,7 @@ import {
   assertViewerSelection,
 } from "../../extension/site/noda/core/noda_viewer_metadata.mjs";
 import { LocalErrorLogger } from "../test_utils/error_log_utils.mjs";
+import { normalizeViewerPeople, loadViewerPerson } from "../../extension/site/noda/core/noda_viewer_people.mjs";
 
 const fixture = JSON.parse(fs.readFileSync(new URL("./viewer_fixtures/voss_1899.json", import.meta.url)));
 const popupCode = fs
@@ -42,11 +43,16 @@ function harness({ allowed = true, offline = false, wrongImage = false, navigate
   const context = vm.createContext({
     setTimeout,
     clearTimeout,
+    AbortController,
+    fetch: async () => ({ ok: true, json: async () => [] }),
     DOMParser: new JSDOM("").window.DOMParser,
     viewerSelectionFromUrl,
     loadViewerMetadata: (selection, fetchJson, current) =>
       loadViewerMetadata(selection, fetchJson, current, (html) => new JSDOM(html).window.document.body.textContent),
     assertViewerSelection,
+    normalizeViewerPeople,
+    loadViewerPerson,
+    addViewerPersonPicker() {},
     checkPermissionForSite: async () => allowed,
     displayBusyMessage() {},
     displayMessageWithIcon: async (...args) => state.warnings.push(args.join(" ")),

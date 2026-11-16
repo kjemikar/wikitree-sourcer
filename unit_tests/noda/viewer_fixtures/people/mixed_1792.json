@@ -1,0 +1,1116 @@
+{
+  "dp": {
+    "hd00000012173759": [
+      {
+        "event_id": "hd00000012173759",
+        "event_date": "07-08",
+        "event_year": "1792",
+        "person_id": "pd00000043670139",
+        "first_name": "Nils",
+        "last_name": "Olsen",
+        "gender": "m",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000012173759",
+        "event_date": "07-08",
+        "event_year": "1792",
+        "person_id": "pd00000043670140",
+        "first_name": "Ole",
+        "last_name": null,
+        "gender": "m",
+        "role": "far"
+      }
+    ],
+    "hd00000012173760": [
+      {
+        "event_id": "hd00000012173760",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670141",
+        "first_name": "Peder",
+        "last_name": "Ellingsen",
+        "gender": "m",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000012173760",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670142",
+        "first_name": "Elling",
+        "last_name": null,
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000012173760",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670143",
+        "first_name": "Haral",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173760",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670144",
+        "first_name": "Anders",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173760",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670145",
+        "first_name": "Hans",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173760",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670146",
+        "first_name": "Dorte",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173760",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670147",
+        "first_name": "Johanne",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      }
+    ],
+    "hd00000012173761": [
+      {
+        "event_id": "hd00000012173761",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670148",
+        "first_name": "Rasmus",
+        "last_name": "Ellingsen",
+        "gender": "m",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000012173761",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670149",
+        "first_name": "Elling",
+        "last_name": null,
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000012173761",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670150",
+        "first_name": "Rasmus",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173761",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670151",
+        "first_name": "Nils",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173761",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670152",
+        "first_name": "Ole",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173761",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670153",
+        "first_name": "Ane",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173761",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670154",
+        "first_name": "Gunni",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      }
+    ],
+    "hd00000012173762": [
+      {
+        "event_id": "hd00000012173762",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670155",
+        "first_name": "Birte Karine",
+        "last_name": "Rasmusdtr.",
+        "gender": "k",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000012173762",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670156",
+        "first_name": "Rasmus",
+        "last_name": null,
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000012173762",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670157",
+        "first_name": "Elias",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173762",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670158",
+        "first_name": "Elling",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173762",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670159",
+        "first_name": "Marte",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173762",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670160",
+        "first_name": "Ane",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173762",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pd00000043670161",
+        "first_name": "Birte",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      }
+    ],
+    "hd00000012173763": [
+      {
+        "event_id": "hd00000012173763",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670162",
+        "first_name": "Ane Birte",
+        "last_name": "Olsdtr.",
+        "gender": "k",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000012173763",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670163",
+        "first_name": "Ole",
+        "last_name": null,
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000012173763",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670164",
+        "first_name": "Elias",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173763",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670165",
+        "first_name": "Lars",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173763",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670166",
+        "first_name": "Janika",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173763",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670167",
+        "first_name": "Ane",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173763",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670168",
+        "first_name": "Ane",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      }
+    ],
+    "hd00000012173764": [
+      {
+        "event_id": "hd00000012173764",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670169",
+        "first_name": "Johanne",
+        "last_name": "Johannesdtr.",
+        "gender": "k",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000012173764",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670170",
+        "first_name": "Johannes",
+        "last_name": null,
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000012173764",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670171",
+        "first_name": "Rasmus",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173764",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670172",
+        "first_name": "Siur",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173764",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670173",
+        "first_name": "Ane",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173764",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670174",
+        "first_name": "Ingebor",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173764",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670175",
+        "first_name": "Helene",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      }
+    ],
+    "hd00000012173765": [
+      {
+        "event_id": "hd00000012173765",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670176",
+        "first_name": "Pauline",
+        "last_name": "Johannesdtr.",
+        "gender": "k",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000012173765",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670177",
+        "first_name": "Johannes",
+        "last_name": null,
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000012173765",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670178",
+        "first_name": "Elias",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173765",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670179",
+        "first_name": "Anders",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173765",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670180",
+        "first_name": "Malene",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173765",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670181",
+        "first_name": "Lisbet",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173765",
+        "event_date": "07-22",
+        "event_year": "1792",
+        "person_id": "pd00000043670182",
+        "first_name": "Karen",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      }
+    ],
+    "hd00000012173766": [
+      {
+        "event_id": "hd00000012173766",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670183",
+        "first_name": "Rasmus",
+        "last_name": "Andersen",
+        "gender": "m",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000012173766",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670184",
+        "first_name": "Anders",
+        "last_name": null,
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000012173766",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670185",
+        "first_name": "Arne",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173766",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670186",
+        "first_name": "Samund",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173766",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670187",
+        "first_name": "Rasmus",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173766",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670188",
+        "first_name": "Ane",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173766",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670189",
+        "first_name": "Ane",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      }
+    ],
+    "hd00000012173767": [
+      {
+        "event_id": "hd00000012173767",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670190",
+        "first_name": "Samund",
+        "last_name": "Samundsen",
+        "gender": "m",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000012173767",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670191",
+        "first_name": "Samund",
+        "last_name": null,
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000012173767",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670192",
+        "first_name": "Torgir",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173767",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670193",
+        "first_name": "Nils",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173767",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670194",
+        "first_name": "Halver",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173767",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670195",
+        "first_name": "Alet",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173767",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670196",
+        "first_name": "Boel",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      }
+    ],
+    "hd00000012173768": [
+      {
+        "event_id": "hd00000012173768",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670197",
+        "first_name": "Peder",
+        "last_name": "Kolbensen",
+        "gender": "m",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000012173768",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670198",
+        "first_name": "Kolben",
+        "last_name": null,
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000012173768",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670199",
+        "first_name": "Rasmus",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173768",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670200",
+        "first_name": "Eric",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173768",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670201",
+        "first_name": "Maren",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173768",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670202",
+        "first_name": "Birte",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      }
+    ],
+    "hd00000012173769": [
+      {
+        "event_id": "hd00000012173769",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670203",
+        "first_name": "Ole",
+        "last_name": "Ivarsen",
+        "gender": "m",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000012173769",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670204",
+        "first_name": "Ivar",
+        "last_name": null,
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000012173769",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670205",
+        "first_name": "Salomon",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173769",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670206",
+        "first_name": "Frideric",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173769",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670207",
+        "first_name": "Johannes",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173769",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670208",
+        "first_name": null,
+        "last_name": "Schielderup",
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173769",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "pd00000043670209",
+        "first_name": "Ane",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      }
+    ],
+    "hd00000012173770": [
+      {
+        "event_id": "hd00000012173770",
+        "event_date": "08-05",
+        "event_year": "1792",
+        "person_id": "pd00000043670210",
+        "first_name": "Anders",
+        "last_name": "Knudsen",
+        "gender": "m",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000012173770",
+        "event_date": "08-05",
+        "event_year": "1792",
+        "person_id": "pd00000043670211",
+        "first_name": "Knud",
+        "last_name": null,
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000012173770",
+        "event_date": "08-05",
+        "event_year": "1792",
+        "person_id": "pd00000043670212",
+        "first_name": "Hans",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173770",
+        "event_date": "08-05",
+        "event_year": "1792",
+        "person_id": "pd00000043670213",
+        "first_name": "Lars",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173770",
+        "event_date": "08-05",
+        "event_year": "1792",
+        "person_id": "pd00000043670214",
+        "first_name": "Gutorm",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173770",
+        "event_date": "08-05",
+        "event_year": "1792",
+        "person_id": "pd00000043670215",
+        "first_name": "Lisbet",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173770",
+        "event_date": "08-05",
+        "event_year": "1792",
+        "person_id": "pd00000043670216",
+        "first_name": "Elen",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      }
+    ],
+    "hd00000012173771": [
+      {
+        "event_id": "hd00000012173771",
+        "event_date": "08-05",
+        "event_year": "1792",
+        "person_id": "pd00000043670217",
+        "first_name": "Borni",
+        "last_name": "Kolbensdtr.",
+        "gender": "k",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000012173771",
+        "event_date": "08-05",
+        "event_year": "1792",
+        "person_id": "pd00000043670218",
+        "first_name": "Kolben",
+        "last_name": null,
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000012173771",
+        "event_date": "08-05",
+        "event_year": "1792",
+        "person_id": "pd00000043670219",
+        "first_name": "Ole",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173771",
+        "event_date": "08-05",
+        "event_year": "1792",
+        "person_id": "pd00000043670220",
+        "first_name": "Samuel",
+        "last_name": null,
+        "gender": "m",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173771",
+        "event_date": "08-05",
+        "event_year": "1792",
+        "person_id": "pd00000043670221",
+        "first_name": "Giertru",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173771",
+        "event_date": "08-05",
+        "event_year": "1792",
+        "person_id": "pd00000043670222",
+        "first_name": "Barbara",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      },
+      {
+        "event_id": "hd00000012173771",
+        "event_date": "08-05",
+        "event_year": "1792",
+        "person_id": "pd00000043670223",
+        "first_name": "Cicelia",
+        "last_name": null,
+        "gender": "k",
+        "role": "fadder"
+      }
+    ]
+  },
+  "in": {
+    "hy00000000076339": [
+      {
+        "event_id": "hy00000000076339",
+        "event_date": "07-29",
+        "event_year": "1792",
+        "person_id": "py00000000122583",
+        "first_name": "Rasmus",
+        "last_name": null,
+        "gender": "m",
+        "role": "ektemann"
+      }
+    ],
+    "hy00000000076340": [
+      {
+        "event_id": "hy00000000076340",
+        "event_date": "08-05",
+        "event_year": "1792",
+        "person_id": "py00000000122584",
+        "first_name": "Ole",
+        "last_name": null,
+        "gender": "m",
+        "role": "ektemann"
+      }
+    ],
+    "hy00000000076341": [
+      {
+        "event_id": "hy00000000076341",
+        "event_date": "08-05",
+        "event_year": "1792",
+        "person_id": "py00000000122585",
+        "first_name": "Elling",
+        "last_name": null,
+        "gender": "m",
+        "role": "ektemann"
+      }
+    ]
+  },
+  "vi": {
+    "hv00000002797507": [
+      {
+        "event_id": "hv00000002797507",
+        "event_date": "07-08",
+        "event_year": "1792",
+        "person_id": "pv00000010316329",
+        "first_name": "Knud",
+        "last_name": "Andersen",
+        "gender": "m",
+        "role": "brudgom"
+      },
+      {
+        "event_id": "hv00000002797507",
+        "event_date": "07-08",
+        "event_year": "1792",
+        "person_id": "pv00000010316330",
+        "first_name": "Ragnil",
+        "last_name": "Pedersdtr.",
+        "gender": "k",
+        "role": "brur"
+      }
+    ],
+    "hv00000002797508": [
+      {
+        "event_id": "hv00000002797508",
+        "event_date": "07-08",
+        "event_year": "1792",
+        "person_id": "pv00000010316331",
+        "first_name": "Iver",
+        "last_name": "Andersen",
+        "gender": "m",
+        "role": "brudgom"
+      },
+      {
+        "event_id": "hv00000002797508",
+        "event_date": "07-08",
+        "event_year": "1792",
+        "person_id": "pv00000010316332",
+        "first_name": "Ane",
+        "last_name": "Madsdtr.",
+        "gender": "k",
+        "role": "brur"
+      }
+    ],
+    "hv00000002797509": [
+      {
+        "event_id": "hv00000002797509",
+        "event_date": "07-08",
+        "event_year": "1792",
+        "person_id": "pv00000010316333",
+        "first_name": "Endre",
+        "last_name": "Olsen",
+        "gender": "m",
+        "role": "brudgom"
+      },
+      {
+        "event_id": "hv00000002797509",
+        "event_date": "07-08",
+        "event_year": "1792",
+        "person_id": "pv00000010316334",
+        "first_name": "Ragnil",
+        "last_name": "Simonsdtr.",
+        "gender": "k",
+        "role": "brur"
+      }
+    ],
+    "hv00000002797510": [
+      {
+        "event_id": "hv00000002797510",
+        "event_date": "07-08",
+        "event_year": "1792",
+        "person_id": "pv00000010316335",
+        "first_name": "Omund",
+        "last_name": "Jørgensen",
+        "gender": "m",
+        "role": "brudgom"
+      },
+      {
+        "event_id": "hv00000002797510",
+        "event_date": "07-08",
+        "event_year": "1792",
+        "person_id": "pv00000010316336",
+        "first_name": "Elen",
+        "last_name": "Torgirsdtr.",
+        "gender": "k",
+        "role": "brur"
+      }
+    ],
+    "hv00000002797511": [
+      {
+        "event_id": "hv00000002797511",
+        "event_date": "07-08",
+        "event_year": "1792",
+        "person_id": "pv00000010316337",
+        "first_name": "Frans",
+        "last_name": "Guttormsen",
+        "gender": "m",
+        "role": "brudgom"
+      },
+      {
+        "event_id": "hv00000002797511",
+        "event_date": "07-08",
+        "event_year": "1792",
+        "person_id": "pv00000010316338",
+        "first_name": "Ane",
+        "last_name": "Jacobsdtr.",
+        "gender": "k",
+        "role": "brur"
+      }
+    ],
+    "hv00000002797512": [
+      {
+        "event_id": "hv00000002797512",
+        "event_date": null,
+        "event_year": "1792",
+        "person_id": "pv00000010316339",
+        "first_name": "Elling",
+        "last_name": "Larsen",
+        "gender": "m",
+        "role": "brudgom"
+      },
+      {
+        "event_id": "hv00000002797512",
+        "event_date": null,
+        "event_year": "1792",
+        "person_id": "pv00000010316340",
+        "first_name": "Johanne",
+        "last_name": "Jacobsdtr.",
+        "gender": "k",
+        "role": "brur"
+      },
+      {
+        "event_id": "hv00000002797512",
+        "event_date": null,
+        "event_year": "1792",
+        "person_id": "pv00000010316341",
+        "first_name": "Eric",
+        "last_name": null,
+        "gender": "m",
+        "role": "trulovar"
+      },
+      {
+        "event_id": "hv00000002797512",
+        "event_date": null,
+        "event_year": "1792",
+        "person_id": "pv00000010316342",
+        "first_name": "Rasmus",
+        "last_name": null,
+        "gender": "m",
+        "role": "trulovar"
+      }
+    ],
+    "hv00000002797513": [
+      {
+        "event_id": "hv00000002797513",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pv00000010316343",
+        "first_name": "Anders",
+        "last_name": "Olsen",
+        "gender": "m",
+        "role": "brudgom"
+      },
+      {
+        "event_id": "hv00000002797513",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pv00000010316344",
+        "first_name": "Dorte",
+        "last_name": "Andersdtr.",
+        "gender": "k",
+        "role": "brur"
+      }
+    ],
+    "hv00000002797514": [
+      {
+        "event_id": "hv00000002797514",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pv00000010316345",
+        "first_name": "Torsten",
+        "last_name": "Christensen",
+        "gender": "m",
+        "role": "brudgom"
+      },
+      {
+        "event_id": "hv00000002797514",
+        "event_date": "07-15",
+        "event_year": "1792",
+        "person_id": "pv00000010316346",
+        "first_name": "Birte",
+        "last_name": "Ericsdtr.",
+        "gender": "k",
+        "role": "brur"
+      }
+    ]
+  }
+}

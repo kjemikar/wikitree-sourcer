@@ -161,7 +161,7 @@ async function assertViewerSelection(selection, getCurrentSelection) {
     throw new Error("The Digitalarkivet image changed. Reopen Sourcer to cite the current image.");
 }
 
-function addViewerSourceReference(ed, builder) {
+function addViewerSourceReference(ed, builder, { includePage = true, includeContents = true } = {}) {
   const metadata = ed.viewerMetadata;
   const reference = metadata.archiveReference || metadata.archiveName || ed.fileTitle;
   builder.addSourceReferenceField("Repository", metadata.institution);
@@ -173,8 +173,12 @@ function addViewerSourceReference(ed, builder) {
     builder.addSourceReferenceField("Protocol", metadata.protocol);
   if (metadata.period && !includes(titleAndReference, metadata.period))
     builder.addSourceReferenceField("Period", metadata.period);
-  builder.addSourceReferenceField("Contents", metadata.contents);
-  if (metadata.printedPage && !["s. ", "p. "].some((prefix) => reference?.endsWith(prefix + metadata.printedPage)))
+  if (includeContents) builder.addSourceReferenceField("Contents", metadata.contents);
+  if (
+    includePage &&
+    metadata.printedPage &&
+    !["s. ", "p. "].some((prefix) => reference?.endsWith(prefix + metadata.printedPage))
+  )
     builder.addSourceReferenceField("Page", metadata.printedPage);
 }
 

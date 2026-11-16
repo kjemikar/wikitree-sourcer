@@ -27,6 +27,8 @@ import * as test_build_household_table from "./noda_test_build_household_table.m
 import * as test_build_search_url from "./noda_test_build_search_url.mjs";
 import * as test_viewer from "./noda_test_viewer.mjs";
 import * as test_viewer_popup from "./noda_test_viewer_popup.mjs";
+import * as test_viewer_people from "./noda_test_viewer_people.mjs";
+import * as test_viewer_picker_popup from "./noda_test_viewer_picker_popup.mjs";
 
 async function runTests(testManager) {
   await test_content_and_citation.runTests(testManager);
@@ -34,6 +36,8 @@ async function runTests(testManager) {
   await test_build_search_url.runTests(testManager);
   await test_viewer.runTests(testManager);
   await test_viewer_popup.runTests(testManager);
+  await test_viewer_people.runTests(testManager);
+  await test_viewer_picker_popup.runTests(testManager);
 }
 
 export { runTests };

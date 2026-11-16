@@ -1,0 +1,516 @@
+{
+  "dp": {
+    "hd00000003531419": [
+      {
+        "event_id": "hd00000003531419",
+        "event_date": "04-22",
+        "event_year": "1888",
+        "person_id": "pd00000017246548",
+        "first_name": "Knut",
+        "last_name": null,
+        "gender": "m",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000003531419",
+        "event_date": "04-22",
+        "event_year": "1888",
+        "person_id": "pd00000017246549",
+        "first_name": "Lars",
+        "last_name": "Knutsen",
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000003531419",
+        "event_date": "04-22",
+        "event_year": "1888",
+        "person_id": "pd00000017246550",
+        "first_name": "Martha",
+        "last_name": "Pedersdtr.",
+        "gender": "k",
+        "role": "mor"
+      }
+    ],
+    "hd00000003531420": [
+      {
+        "event_id": "hd00000003531420",
+        "event_date": "04-29",
+        "event_year": "1888",
+        "person_id": "pd00000017246551",
+        "first_name": "Knut",
+        "last_name": null,
+        "gender": "m",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000003531420",
+        "event_date": "04-29",
+        "event_year": "1888",
+        "person_id": "pd00000017246552",
+        "first_name": "Styrk",
+        "last_name": "Knuts.",
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000003531420",
+        "event_date": "04-29",
+        "event_year": "1888",
+        "person_id": "pd00000017246553",
+        "first_name": "Ingebjørg",
+        "last_name": "Knutsdtr.",
+        "gender": "k",
+        "role": "mor"
+      }
+    ],
+    "hd00000003531421": [
+      {
+        "event_id": "hd00000003531421",
+        "event_date": "05-21",
+        "event_year": "1888",
+        "person_id": "pd00000017246554",
+        "first_name": "Nils",
+        "last_name": null,
+        "gender": "m",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000003531421",
+        "event_date": "05-21",
+        "event_year": "1888",
+        "person_id": "pd00000017246555",
+        "first_name": "Lars",
+        "last_name": "Olsen",
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000003531421",
+        "event_date": "05-21",
+        "event_year": "1888",
+        "person_id": "pd00000017246556",
+        "first_name": "Inger",
+        "last_name": "Hermundsdtr.",
+        "gender": "k",
+        "role": "mor"
+      }
+    ],
+    "hd00000003531422": [
+      {
+        "event_id": "hd00000003531422",
+        "event_date": "05-21",
+        "event_year": "1888",
+        "person_id": "pd00000017246557",
+        "first_name": "Ragnvald Sigurd",
+        "last_name": null,
+        "gender": "m",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000003531422",
+        "event_date": "05-21",
+        "event_year": "1888",
+        "person_id": "pd00000017246558",
+        "first_name": "Lars",
+        "last_name": "Stykss.",
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000003531422",
+        "event_date": "05-21",
+        "event_year": "1888",
+        "person_id": "pd00000017246559",
+        "first_name": "Ingebjørg",
+        "last_name": "Larsdtr.",
+        "gender": "k",
+        "role": "mor"
+      }
+    ],
+    "hd00000003531423": [
+      {
+        "event_id": "hd00000003531423",
+        "event_date": "05-27",
+        "event_year": "1888",
+        "person_id": "pd00000017246560",
+        "first_name": "Anders",
+        "last_name": null,
+        "gender": "m",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000003531423",
+        "event_date": "05-27",
+        "event_year": "1888",
+        "person_id": "pd00000017246561",
+        "first_name": "Torbjørn",
+        "last_name": "Mikkels.",
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000003531423",
+        "event_date": "05-27",
+        "event_year": "1888",
+        "person_id": "pd00000017246562",
+        "first_name": "Martha",
+        "last_name": "Sjursdtr.",
+        "gender": "k",
+        "role": "mor"
+      }
+    ],
+    "hd00000003531424": [
+      {
+        "event_id": "hd00000003531424",
+        "event_date": "05-27",
+        "event_year": "1888",
+        "person_id": "pd00000017246563",
+        "first_name": "Halle",
+        "last_name": null,
+        "gender": "m",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000003531424",
+        "event_date": "05-27",
+        "event_year": "1888",
+        "person_id": "pd00000017246564",
+        "first_name": "Anders",
+        "last_name": "Hallesen",
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000003531424",
+        "event_date": "05-27",
+        "event_year": "1888",
+        "person_id": "pd00000017246565",
+        "first_name": "Britha",
+        "last_name": "Nilsdtr.",
+        "gender": "k",
+        "role": "mor"
+      }
+    ],
+    "hd00000003531425": [
+      {
+        "event_id": "hd00000003531425",
+        "event_date": "05-27",
+        "event_year": "1888",
+        "person_id": "pd00000017246566",
+        "first_name": "Anders",
+        "last_name": null,
+        "gender": "m",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000003531425",
+        "event_date": "05-27",
+        "event_year": "1888",
+        "person_id": "pd00000017246567",
+        "first_name": "Anders",
+        "last_name": "Knutsen",
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000003531425",
+        "event_date": "05-27",
+        "event_year": "1888",
+        "person_id": "pd00000017246568",
+        "first_name": "Britha",
+        "last_name": "Pedersdtr.",
+        "gender": "k",
+        "role": "mor"
+      }
+    ],
+    "hd00000003531426": [
+      {
+        "event_id": "hd00000003531426",
+        "event_date": "05-21",
+        "event_year": "1888",
+        "person_id": "pd00000017246569",
+        "first_name": "Knut",
+        "last_name": null,
+        "gender": "m",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000003531426",
+        "event_date": "05-21",
+        "event_year": "1888",
+        "person_id": "pd00000017246570",
+        "first_name": "Ole",
+        "last_name": "Knuts.",
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000003531426",
+        "event_date": "05-21",
+        "event_year": "1888",
+        "person_id": "pd00000017246571",
+        "first_name": "Anna",
+        "last_name": "Sjursdtr.",
+        "gender": "k",
+        "role": "mor"
+      }
+    ],
+    "hd00000003531427": [
+      {
+        "event_id": "hd00000003531427",
+        "event_date": "04-02",
+        "event_year": "1888",
+        "person_id": "pd00000017246572",
+        "first_name": "Jenny Hernikke",
+        "last_name": null,
+        "gender": "k",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000003531427",
+        "event_date": "04-02",
+        "event_year": "1888",
+        "person_id": "pd00000017246573",
+        "first_name": "Ingebrigt",
+        "last_name": "Mickelsen",
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000003531427",
+        "event_date": "04-02",
+        "event_year": "1888",
+        "person_id": "pd00000017246574",
+        "first_name": "Marie Andrea",
+        "last_name": "Larsen",
+        "gender": "k",
+        "role": "mor"
+      }
+    ],
+    "hd00000003531428": [
+      {
+        "event_id": "hd00000003531428",
+        "event_date": "04-02",
+        "event_year": "1888",
+        "person_id": "pd00000017246575",
+        "first_name": "Inger",
+        "last_name": null,
+        "gender": "k",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000003531428",
+        "event_date": "04-02",
+        "event_year": "1888",
+        "person_id": "pd00000017246576",
+        "first_name": "Anders",
+        "last_name": "Johannes.",
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000003531428",
+        "event_date": "04-02",
+        "event_year": "1888",
+        "person_id": "pd00000017246577",
+        "first_name": "Kari",
+        "last_name": "Monsdtr.",
+        "gender": "k",
+        "role": "mor"
+      }
+    ],
+    "hd00000003531429": [
+      {
+        "event_id": "hd00000003531429",
+        "event_date": "04-22",
+        "event_year": "1888",
+        "person_id": "pd00000017246578",
+        "first_name": "Johanna",
+        "last_name": null,
+        "gender": "k",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000003531429",
+        "event_date": "04-22",
+        "event_year": "1888",
+        "person_id": "pd00000017246579",
+        "first_name": "Anve",
+        "last_name": "Villums.",
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000003531429",
+        "event_date": "04-22",
+        "event_year": "1888",
+        "person_id": "pd00000017246580",
+        "first_name": "Britha",
+        "last_name": "Knutsdtr.",
+        "gender": "k",
+        "role": "mor"
+      }
+    ],
+    "hd00000003531430": [
+      {
+        "event_id": "hd00000003531430",
+        "event_date": "04-22",
+        "event_year": "1888",
+        "person_id": "pd00000017246581",
+        "first_name": "Kari",
+        "last_name": null,
+        "gender": "k",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000003531430",
+        "event_date": "04-22",
+        "event_year": "1888",
+        "person_id": "pd00000017246582",
+        "first_name": "Knut",
+        "last_name": "Arnfinsen",
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000003531430",
+        "event_date": "04-22",
+        "event_year": "1888",
+        "person_id": "pd00000017246583",
+        "first_name": "Gjertrud",
+        "last_name": "Sjursdtr.",
+        "gender": "k",
+        "role": "mor"
+      }
+    ],
+    "hd00000003531431": [
+      {
+        "event_id": "hd00000003531431",
+        "event_date": "04-22",
+        "event_year": "1888",
+        "person_id": "pd00000017246584",
+        "first_name": "Gjertina",
+        "last_name": null,
+        "gender": "k",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000003531431",
+        "event_date": "04-22",
+        "event_year": "1888",
+        "person_id": "pd00000017246585",
+        "first_name": "Lars",
+        "last_name": "Herlaugs.",
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000003531431",
+        "event_date": "04-22",
+        "event_year": "1888",
+        "person_id": "pd00000017246586",
+        "first_name": "Ragnhild",
+        "last_name": "Olsdtr.",
+        "gender": "k",
+        "role": "mor"
+      }
+    ],
+    "hd00000003531432": [
+      {
+        "event_id": "hd00000003531432",
+        "event_date": "04-29",
+        "event_year": "1888",
+        "person_id": "pd00000017246587",
+        "first_name": "Anna",
+        "last_name": null,
+        "gender": "k",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000003531432",
+        "event_date": "04-29",
+        "event_year": "1888",
+        "person_id": "pd00000017246588",
+        "first_name": "Ole",
+        "last_name": "Gjetlesen",
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000003531432",
+        "event_date": "04-29",
+        "event_year": "1888",
+        "person_id": "pd00000017246589",
+        "first_name": "Maria",
+        "last_name": "Josefsdtr.",
+        "gender": "k",
+        "role": "mor"
+      }
+    ],
+    "hd00000003531433": [
+      {
+        "event_id": "hd00000003531433",
+        "event_date": "05-13",
+        "event_year": "1888",
+        "person_id": "pd00000017246590",
+        "first_name": "Kirsti",
+        "last_name": null,
+        "gender": "k",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000003531433",
+        "event_date": "05-13",
+        "event_year": "1888",
+        "person_id": "pd00000017246591",
+        "first_name": "Torstein",
+        "last_name": "Anders.",
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000003531433",
+        "event_date": "05-13",
+        "event_year": "1888",
+        "person_id": "pd00000017246592",
+        "first_name": "Olina",
+        "last_name": "Olsdtr.",
+        "gender": "k",
+        "role": "mor"
+      }
+    ],
+    "hd00000003531434": [
+      {
+        "event_id": "hd00000003531434",
+        "event_date": "05-13",
+        "event_year": "1888",
+        "person_id": "pd00000017246593",
+        "first_name": "Martha",
+        "last_name": null,
+        "gender": "k",
+        "role": "barn"
+      },
+      {
+        "event_id": "hd00000003531434",
+        "event_date": "05-13",
+        "event_year": "1888",
+        "person_id": "pd00000017246594",
+        "first_name": "Lars",
+        "last_name": "Fronds",
+        "gender": "m",
+        "role": "far"
+      },
+      {
+        "event_id": "hd00000003531434",
+        "event_date": "05-13",
+        "event_year": "1888",
+        "person_id": "pd00000017246595",
+        "first_name": "Anna",
+        "last_name": "Ivarsdtr.",
+        "gender": "k",
+        "role": "mor"
+      }
+    ]
+  }
+}

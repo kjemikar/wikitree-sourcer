@@ -33,6 +33,7 @@ SOFTWARE.
 // The order of these lines does not matter, it affects the order that things like
 // dynamic content scripts are registered in but that is not important
 
+import "../../agatha/core/agatha_site_data.mjs";
 import "../../ameranc/core/ameranc_site_data.mjs";
 import "../../ancestry/core/ancestry_site_data.mjs";
 import "../../archion/core/archion_site_data.mjs";
@@ -47,6 +48,7 @@ import "../../cemmap/core/cemmap_site_data.mjs";
 import "../../compdes/core/compdes_site_data.mjs";
 import "../../cwgc/core/cwgc_site_data.mjs";
 import "../../dfgviewer/core/dfgviewer_site_data.mjs";
+import "../../dfs/core/dfs_site_data.mjs";
 import "../../doew/core/doew_site_data.mjs";
 import "../../ecpp/core/ecpp_site_data.mjs";
 import "../../eggsabdm/core/eggsabdm_site_data.mjs";
@@ -71,6 +73,7 @@ import "../../gro/core/gro_site_data.mjs";
 import "../../hathi/core/hathi_site_data.mjs";
 import "../../ilsosgov/core/ilsosgov_site_data.mjs";
 import "../../imdb/core/imdb_site_data.mjs";
+import "../../ina/core/ina_site_data.mjs";
 import "../../irishg/core/irishg_site_data.mjs";
 import "../../itcadgg/core/itcadgg_site_data.mjs";
 import "../../jstor/core/jstor_site_data.mjs";
@@ -117,4 +120,3 @@ import "../../wtahdstn/core/wtahdstn_site_data.mjs";
 import "../../yadvashem/core/yadvashem_site_data.mjs";
 import "../../yorkshireburials/core/yorkshireburials_site_data.mjs";
 import "../../youtube/core/youtube_site_data.mjs";
-import "../../dfs/core/dfs_site_data.mjs";

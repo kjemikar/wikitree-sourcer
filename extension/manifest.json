@@ -33,8 +33,6 @@
     "contextMenus"
   ],
   "optional_host_permissions": [
-    "*://*.danishfamilysearch.dk/*",
-    "*://*.danishfamilysearch.com/*",
     "*://*.americanancestors.org/*",
     "*://*.ancestry.ca/*",
     "*://*.ancestry.co.uk/*",
@@ -70,6 +68,8 @@
     "*://*.cadutigrandeguerra.it/*",
     "*://*.cornwall-opc-database.org/*",
     "*://*.cwgc.org/*",
+    "*://*.danishfamilysearch.com/*",
+    "*://*.danishfamilysearch.dk/*",
     "*://*.digitalarkivet.no/*",
     "*://*.eggsa.org/*",
     "*://*.familyhistory.bdm.qld.gov.au/*",
@@ -99,6 +99,7 @@
     "*://*.howison.co.nz/*",
     "*://*.imdb.com/*",
     "*://*.irishgenealogy.ie/*",
+    "*://*.irishnewsarchive.com/*",
     "*://*.jstor.org/*",
     "*://*.msa.maryland.gov/*",
     "*://*.myheritage.com/*",
@@ -119,6 +120,7 @@
     "*://*.wikipedia.org/*",
     "*://*.wikitree.com/*",
     "*://*.yadvashem.org/*",
+    "*://agatha.arch.be/*",
     "*://apps.bundesarchiv.de/gedenkbuch/*",
     "*://apps.ilsos.gov/isavital/*",
     "*://apps.wikitree.com/apps/*/cemetery-map/*",

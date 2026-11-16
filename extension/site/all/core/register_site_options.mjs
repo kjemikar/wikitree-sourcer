@@ -30,6 +30,7 @@ SOFTWARE.
 // Importing each of these site modules causes them to register their options
 // The order of these lines does not matter since the options screen sorts them
 // by label.
+import "../../agatha/core/agatha_options.mjs";
 import "../../ameranc/core/ameranc_options.mjs";
 import "../../ancestry/core/ancestry_options.mjs";
 import "../../archion/core/archion_options.mjs";
@@ -43,6 +44,7 @@ import "../../bg/core/bg_options.mjs";
 import "../../compdes/core/compdes_options.mjs";
 import "../../cwgc/core/cwgc_options.mjs";
 import "../../dfgviewer/core/dfgviewer_options.mjs";
+import "../../dfs/core/dfs_options.mjs";
 import "../../doew/core/doew_options.mjs";
 import "../../ecpp/core/ecpp_options.mjs";
 import "../../eggsabdm/core/eggsabdm_options.mjs";
@@ -67,6 +69,7 @@ import "../../gro/core/gro_options.mjs";
 import "../../hathi/core/hathi_options.mjs";
 import "../../ilsosgov/core/ilsosgov_options.mjs";
 import "../../imdb/core/imdb_options.mjs";
+import "../../ina/core/ina_options.mjs";
 import "../../irishg/core/irishg_options.mjs";
 import "../../itcadgg/core/itcadgg_options.mjs";
 import "../../jstor/core/jstor_options.mjs";
@@ -110,4 +113,3 @@ import "../../wikitree/core/wikitree_options.mjs";
 import "../../wol/core/wol_options.mjs";
 import "../../yadvashem/core/yadvashem_options.mjs";
 import "../../yorkshireburials/core/yorkshireburials_options.mjs";
-import "../../dfs/core/dfs_options.mjs";
